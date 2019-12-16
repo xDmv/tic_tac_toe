@@ -1,2 +1,2 @@
-## This project for demonstration my experians in the React.js
+## This project is to demonstrate my experiments in React.js
 ### This example game Tic Tac Toe.
